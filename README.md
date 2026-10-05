@@ -32,6 +32,8 @@ Reported honestly in the full report: the user profile method gives 60% of learn
 
 * `course_recommender_capstone.ipynb` — the full analysis, end to end
 * `report.pdf` — the complete writeup with figures and evaluation tables
+* Run it on Kaggle: [Course Recommenders: Content vs Collaborative](https://www.kaggle.com/code/coldrazer/course-recommenders-content-vs-collaborative)
+* Dataset on Kaggle: [IBM Online Course Recommender Data](https://www.kaggle.com/datasets/coldrazer/ibm-online-course-recommender-data)
 
 ## Reproduce
 
